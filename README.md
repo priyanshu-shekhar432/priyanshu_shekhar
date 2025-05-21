@@ -1,1 +1,35 @@
-<h1 align="center">Hi 👋, I'm [Priyanshu Shekhar]</h1> <h3 align="center">🚀 Data Analyst | Excel | Python | Power BI | SQL</h3> <p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"/> </p> --- ## 🧑‍💻 About Me - 🎯 I am a passionate **Data Analyst** focused on deriving actionable insights from data. - 📊 Skilled in **Excel**, **SQL**, **Python**, and **Power BI**. - 🔎 Love solving problems with data and visualizing them for decision-making. - 📈 Currently exploring **Machine Learning ** to enhance data analysis capabilities. - 💬 Ask me about anything related to data! --- ## 📂 Featured Projects ### 📌 Power BI Sales Dashboard <p align="center"> <img src="https://github.com/yourusername/your-repo/blob/main/assets/powerbi-dashboard.png" alt="Power BI Dashboard" width="600"/> </p> 🔹 Interactive Power BI dashboard tracking sales KPIs, trends, and top-performing products. 🔹 Technologies: Power BI, DAX, SQL --- ### 📌 Python Data Cleaning Pipeline <p align="center"> <img src="https://github.com/yourusername/your-repo/blob/main/assets/python-data-cleaning.png" alt="Python Data Cleaning" width="600"/> </p> 🔹 Automated pipeline for cleaning and preparing raw data for analysis. 🔹 Technologies: Python (Pandas, NumPy) --- ### 📌 Excel Automated Reporting <p align="center"> <img src="https://github.com/yourusername/your-repo/blob/main/assets/excel-report.png" alt="Excel Report" width="600"/> </p> 🔹 Developed dynamic Excel dashboards and reports with pivot tables and VBA. 🔹 Technologies: Microsoft Excel, VBA --- ## 🛠️ Tools & Technologies | Tool         | Expertise | |--------------|-----------| | **Excel**    | ✅✅✅✅✅ | | **SQL**      | ✅✅✅✅  | | **Python**   | ✅✅✅✅  | | **Power BI** | ✅✅✅✅  | | **Pandas**   | ✅✅✅✅  | | **Git/GitHub** | ✅✅✅   | --- ## 📬 Connect with Me <p align="center"> <a href="https://www.linkedin.com/in/priyanshu-shekhar432/"target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/priyanshu-shekhar432/priyanshu-shekhar?tab=readme-ov-file"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </p> --- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" /> </p>
+# 💫 About Me:
+🔭 I’m currently working on Ai Tool-Box<br>🤝 I’m looking for help with Ai Tool-Box<br>🌱 I’m currently learning Java Data Structure<br>
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohit-singh4) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@RohitSingh403) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rohit.singh43@outlook.com) 
+
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=RohitSingh403&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=RohitSingh403&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RohitSingh403&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=RohitSingh403&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<details>	
+ <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" /></a>
+</div>
+</details>
+
+---
+[![](https://visitcount.itsvg.in/api?id=RohitSingh403&icon=2&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
